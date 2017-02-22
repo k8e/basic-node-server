@@ -1,5 +1,7 @@
 # Basic Node Server
-Run `node project` to start the server. 
+Install with `npm install`
+
+Run `node project` to start the server. (Or `nodejs project`.)
 
 To run in the background, run
 ```
