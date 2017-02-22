@@ -5,5 +5,5 @@ Run `node project` to start the server. (Or `nodejs project`.)
 
 To run in the background, run
 ```
-node project > ~/logs/node/output.log 2> ~/logs/node/error.log &
+nodejs project > ../logs/output.log 2> ../logs/error.log &
 ```
